@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
 
 ## Tulu Speech-to-English Translator
 
@@ -166,66 +166,4 @@ This project leverages open-source tools and multilingual transformer models to 
 
 **Note:**
 Replace all model paths (`/Users/roshanshetty/Downloads/y_Training/tulu_translator_final`) with your actual model directory as needed[^2][^3][^4][^7].
-
-<div style="text-align: center">⁂</div>
-
-[^1]: added_tokens.json
-
-[^2]: app.py
-
-[^3]: app1.py
-
-[^4]: app2.py
-
-[^5]: config.json
-
-[^6]: generation_config.json
-
-[^7]: main.py
-
-[^8]: special_tokens_map.json
-
-[^9]: tokenizer_config.json
-
-[^10]: vocab.json
-
-[^11]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
-
-[^12]: https://www.hatica.io/blog/best-practices-for-github-readme/
-
-[^13]: https://everhour.com/blog/github-readme-template/
-
-[^14]: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-
-[^15]: https://www.nobledesktop.com/learn/git/create-a-readme-file
-
-[^16]: https://dev.to/github/how-to-create-a-github-profile-readme-jha
-
-[^17]: https://github.com/jehna/readme-best-practices
-
-[^18]: https://gist.github.com/ramantehlan/602ad8525699486e097092e4158c5bf1
-
-[^19]: https://www.youtube.com/watch?v=rCt9DatF63I
-
-[^20]: https://github.com/othneildrew/Best-README-Template
-
-[^21]: https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
-
-[^22]: https://readme.so
-
-[^23]: https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-[^24]: https://www.readme-templates.com
-
-[^25]: https://www.makeareadme.com
-
-[^26]: https://github.com/jehna/readme-best-practices/blob/master/README-default.md
-
-[^27]: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
-
-[^28]: https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/
-
-[^29]: https://www.youtube.com/watch?v=QcZKsbgsLa4
-
-[^30]: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
